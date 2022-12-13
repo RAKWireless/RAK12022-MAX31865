@@ -1,0 +1,32 @@
+{
+	"name": "RAK12022-MAX31865",
+	"version": "1.0.0",
+	"keywords": [
+		"RTD-to-Digital Converter",
+		"MAX31865",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12022"
+	],
+	"description": "RAKWireless library for the RAK12022 module with the MAX31865",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "tianpeng.liu@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "tianpeng.liu"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK12022-MAX31865"
+	},
+	"homepage": "https://rakwireless.com"
+}

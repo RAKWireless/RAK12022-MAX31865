@@ -1,0 +1,38 @@
+####################################################
+# Syntax Coloring Map For MAX31865
+####################################################
+
+####################################################
+# Datatypes (KEYWORD1)
+####################################################
+MAX31865	KEYWORD1
+####################################################
+# Methods and Functions (KEYWORD2)
+####################################################
+begin   KEYWORD2
+MAX31865_GetTemperatureAndStatus    KEYWORD2
+MAX31865_SetLowFaultThreshold   KEYWORD2
+MAX31865_SetHighFaultThreshold  KEYWORD2
+MAX31865_SendByte   KEYWORD2
+MAX31865_SendWord	KEYWORD2
+MAX31865_ReceiveByte	KEYWORD2
+MAX31865_ReceiveWord	KEYWORD2
+MAX31865_Config	KEYWORD2
+
+
+####################################################
+#   Constants (LITERAL1)
+####################################################
+MAX31865_2WIRE	LITERAL1
+MAX31865_3WIRE	LITERAL1
+MAX31865_4WIRE	LITERAL1
+
+MAX31865_PT100	LITERAL1
+MAX31865_PT1000	LITERAL1
+
+MAX31865_FAULT_REFIN_LOW_OPEN	LITERAL1
+MAX31865_FAULT_RTDIN_LOW_OPEN	LITERAL1
+MAX31865_FAULT_VOLTAGE_OOR	LITERAL1
+MAX31865_FAULT_TEMP_HIGH	LITERAL1
+MAX31865_FAULT_TEMP_LOW LITERAL1
+MAX31865_FAULT_REFIN_HIGH	LITERAL1
